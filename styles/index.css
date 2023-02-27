@@ -1,0 +1,60 @@
+header {
+
+}
+
+.logo {
+    /* Head. */
+
+    font-family: 'Baloo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    text-decoration: none;
+    /* identical to box height, or 150% */
+
+    letter-spacing: -0.25px;
+
+    color: #FFFFFF;
+
+}
+
+li {
+    text-decoration: none;
+}
+.navigation {
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
+body {
+    background-color: black;
+}
+
+.japan {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    color: #FFFFFF;
+    font-size: 16px;
+
+}
+
+h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 84px;
+    line-height: 102px;
+    /* identical to box height, or 121% */
+
+    letter-spacing: -2px;
+
+    color: #FFFFFF;
+}
+.img {
+    max-width: 100%;
+    height: auto;
+}
