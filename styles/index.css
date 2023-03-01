@@ -60,6 +60,11 @@ header {
     color: #FFFFFF;
 }
 
+/* mouse over link */
+a:hover {
+    color: pink;
+  }
+
 .nav_dot {
     text-decoration: dotted;
     color: #FFFFFF;
@@ -145,7 +150,7 @@ img {
 
     }
 
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 450px) {
     body {
         display: flex;
         flex-direction: column;
